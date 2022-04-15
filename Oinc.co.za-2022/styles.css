@@ -1,0 +1,15 @@
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4%;
+    width: 55%;
+    border-left: solid black;
+    border-top:solid black;
+    border-right:solid black;
+    border-bottom:solid black;
+    border-radius: 50px;
+}
+
+body {background-color: #78c5f1;}
+
